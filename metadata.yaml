@@ -1,0 +1,41 @@
+_repo: Lukis-Laras-Kertomus-Kreikan-vapaussodan-ajoilta_63492
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Forsman, Kaarlo
+    alias: Koskimies, Kaarlo
+    birthdate: 1851
+    deathdate: 1918
+    gutenberg_agent_id: '7957'
+    url: http://www.gutenberg.org/2009/agents/7957
+    wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Koskimies_(suomentaja)
+creator:
+  author:
+    agent_name: Vikelas, Demetrios
+    aliases:
+    - Bikelas, Demetrios
+    - Bikelas, Demetrius
+    - Vikélas, Demetrios
+    - Βικέλας, Δημήτριος
+    birthdate: 1835
+    deathdate: 1908
+    gutenberg_agent_id: '6012'
+    url: http://www.gutenberg.org/2009/agents/6012
+    wikipedia: https://en.wikipedia.org/wiki/Demetrius_Vikelas
+description: ''
+gutenberg_issued: '2020-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63492'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcc 'PA'
+- !lcsh 'Greece -- History -- War of Independence, 1821-1829 -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: 'Lukís Láras: Kertomus Kreikan vapaussodan ajoilta'
+url: http://www.gutenberg.org/ebooks/63492
