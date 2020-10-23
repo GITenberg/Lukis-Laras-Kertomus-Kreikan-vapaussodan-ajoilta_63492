@@ -1,5 +1,5 @@
 _repo: Lukis-Laras-Kertomus-Kreikan-vapaussodan-ajoilta_63492
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Forsman, Kaarlo
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '7957'
     url: http://www.gutenberg.org/2009/agents/7957
     wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Koskimies_(suomentaja)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vikelas, Demetrios
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6012
     wikipedia: https://en.wikipedia.org/wiki/Demetrius_Vikelas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63492#Lukis-Laras-Kertomus-Kreikan-vapaussodan-ajoilta
 gutenberg_issued: '2020-10-18'
 gutenberg_type: Text
 identifiers:
